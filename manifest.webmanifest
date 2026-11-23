@@ -1,0 +1,9 @@
+{
+  "name": "Private Brain · Arpan",
+  "short_name": "Private Brain",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080c16",
+  "theme_color": "#090d18",
+  "description": "An offline-first personal knowledge vault."
+}
